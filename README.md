@@ -27,7 +27,7 @@ If you have any questions or need support, join our Discord server: [https://dsc
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone https://github.com/DuxiiYT/Auto-Poster/blob/main/Automated%20Channel%20Messenger/Auto-Poster.py
    ```
 2. Install the required packages:
    ```bash

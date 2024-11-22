@@ -1,6 +1,0 @@
-By using this program, you agree to the following terms:
-
-1. Usage of this program is at your own risk. We do not take responsibility for any actions taken against you, including bans or restrictions applied by Discord or any other platform.
-2. Leaking or sharing this program without authorization will result in a permanent blacklist from accessing future updates or related services.
-3. If your account is banned or restricted, it is not our responsibility. As per Discord's policies, using self-bots is prohibited.
-4. By continuing to use this software, you acknowledge and accept these terms.

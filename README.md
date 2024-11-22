@@ -14,7 +14,8 @@ This Python script is a powerful tool for automating posts in specific channels!
 Simply run the script, configure the `configs.json` file, and your bot will begin posting in the specified channel as configured. 
 
 > **Note:** Feel free to modify the script for personal use, but **reselling or redistributing it is strictly prohibited**.
-
+> **Note:** A slight issue where it will try to create and search for the configs.json on your Desktop instead, that should be fixed where you need to simply just run the Python script only, and it should create a configs.json along with two other files on your Desktop**.
+> 
 If you have any questions or need support, join our Discord server: [https://dsc.gg/cpsscripts](https://dsc.gg/cpsscripts)
 
 ## Requirements
